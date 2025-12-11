@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Deep Search",
+  "description": "A next-generation AI-powered search engine utilizing Gemini 2.5 Flash and Google Search Grounding for deep, accurate, and sourced answers.",
+  "requestFramePermissions": []
+}
